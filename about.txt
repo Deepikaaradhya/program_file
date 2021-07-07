@@ -1,0 +1,88 @@
+<html>
+    <head>
+        <title>My Profile</title>
+    </head>
+    <body>
+        <header>
+            <center> 
+                <h1><i>Deepika</i></h1>
+            </center>
+            <hr/>
+        </header>
+        <div>
+            <div>
+                <center>
+                     <h2><b>About</b></h2>
+                     <p><i>Myself Deepika, I am 23 year old, i live in davangere with my parents and younger brother. I can speak 2 languages, kannada and English. And I did my graduation in Information Science and Engg from BIET College,DVG.</i> </p>
+                     <p><span><i>My short term goal is to get a job in a good company. And long term goal is to get more knowledge and improve my skills to reach a good personality in the company</i></span></p>
+                     <p><span><i>My strength is I can do any work confidently without any pressure, My weakness is I am not comfortable until I finish my work in the given time period.</i></span></p>
+                     <img src="deepu.png.jpg" width="200" height="200" alt="deepu.png.jpg"/>
+                </center>
+            </div>
+            <div>
+                <center>
+                    <style>
+                        table {
+                            font-family: 'Times New Roman', Times, serif;
+                            border-collapse: collapse;
+                            width: 100%;
+                        }
+                        td,th {
+                            border: 1px solid #dddddd;
+                            text-align: left;
+                            padding: 8px;
+                        }
+                        tr:nth-child(even) {
+                            background-color: #dddddd;
+                        }
+                    </style>
+                    <h2><b>Education</b></h2>
+                    <table>
+                        <tr>
+                            <th><u>COLLEGE/SCHOOL</u></th>
+                            <th><u>YEAR</u></th>
+                        </tr>
+                        <tr>
+                            <td><i>Bapuji Institute of Engineering & Technology,Dvg - 60%</i></td>
+                            <td>2020</td>
+                        </tr>
+                        <tr>
+                            <td><i>Smt. Pushpa Shamanur Mahalingappa PU College,Dvg - 65%</i></td>
+                            <td>2015</td>
+                        </tr>
+                        <tr>
+                            <td><i>St. John's convent,Dvg - 63.84%</i></td>
+                            <td>2013</td>
+                        </tr>
+                        </table>
+                </center>
+            </div>
+            <div>
+                <center>
+                    <h2><b>Hobbies</b></h2>
+                    <p><i>My hobbies are listening to music,Singing,painting, watching web series and spending time with my friends. Singing and Drawing is something that gives me comfert and help me to relax. I started singing and painting when i was in school and i also won many prizes.  over the year the habbit is something that has helped me to change a lot and give me lots of joy and happiness.</i> </p>
+                </center>    
+            </div>
+            <div>
+                <center> 
+                    <h2><b>Dreams and Aspiration</b></h2>
+                    <p><i>while many peoples have dream to become doctors and lawyers. i always wanted to be a software engineer.</i></p>
+                </center>
+            </div>
+            <div>
+                <footer>
+                    <hr/>
+                    <center>
+                        <h2><b> Contact me</b></h2>
+                        <h3>&phone; 7975150576</h3>
+                    </center>
+            >
+        </div>    
+        <footer>
+            <hr/>
+            <center>
+                <h3><i>&copy; deepikaaradhya &hearts;</i></h3>
+            </center>
+        </footer>    
+    </body>
+</html>
