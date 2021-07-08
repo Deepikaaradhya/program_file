@@ -1,0 +1,82 @@
+<html>
+    <head>
+        <title>Travel</title>
+        <link href="edureka.jpg" rel="icon" type="image/jpg" />
+    </head>
+    <boby>
+        <header>
+            <center>
+                <h1>Travel</h1>
+            </center> 
+            <a href="" target="_blank">Intsagram</a>
+            <br/>
+            <a href="third.html">Third</a>
+            <br/>
+            <a href="#Karnataka">Karnataka</a>
+            <a href="#Jammu and Kashmir">Jammu and Kashmir</a>
+            <a href="#Kerala">Kerala</a> 
+            <hr/>   
+        </header>
+        <div>
+            <table>
+                <thead> 
+                    <tr> 
+                        <th>Date</th>
+                        <th>Location</th>
+                        <th>Hotel</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>july 25 2021</td>
+                        <td>Chikmagalur</td>
+                        <td>Vismita County</td>
+                    </tr>
+                    <tr>
+                        <td>August 10 2021</td>
+                        <td>Mysore</td>
+                        <td>Chitravana Resort</td>
+                    </tr>    
+                </tbody>
+            </table>
+            <div>
+            <section id="Karnataka">
+                <center>
+                    <h2><i>Karnataka</i></h2>
+                    <p>Karnataka (/k?r'n??t?k?/; ISO: Karna?aka, Kannada pronunciation: [k??'n????k?]) is a state in the south western region of India. It is the largest state in South India and sixth largest in India. It was formed on 1 November 1956, with the passage of the States Reorganisation Act. Originally known as the State of Mysore /ma?'s??r/, it was renamed Karnataka in 1973. The state corresponds to the Carnatic region. Its capital and largest city is Bangalore.</p>
+                    <img src="karnataka.jpg" alt="karnataka" />
+                </center>
+            </section>
+            </div>
+            <div>   
+            <section id="Jammu and Kashmir">
+                <center>
+                    <h2><i>Jammu and Kashmir</i></h2>
+                    <p>Jammu and Kashmir[a] was a state of India from 1954 to 2019, constituting the southern and southeastern portion of the larger Kashmir region, which has been the subject of a dispute between India, Pakistan and China since the mid-20th century.[5][6] The underlying region of this state were parts of the former princely state of Jammu and Kashmir, whose western districts, now known as Azad Kashmir, and northern territories, now known as Gilgit-Baltistan, are administered by Pakistan. The Aksai Chin region in the east, bordering Tibet, has been under Chinese control since 1962.</p>
+                    <img src="jammu and kashmir.jpg" alt="jammu and Kashmir" />
+                    <p>Jammu and Kashmir[a] was a state of India from 1954 to 2019, constituting the southern and southeastern portion of the larger Kashmir region, which has been the subject of a dispute between India, Pakistan and China since the mid-20th century.[5][6] The underlying region of this state were parts of the former princely state of Jammu and Kashmir, whose western districts, now known as Azad Kashmir, and northern territories, now known as Gilgit-Baltistan, are administered by Pakistan. The Aksai Chin region in the east, bordering Tibet, has been under Chinese control since 1962.</p>
+                </center>
+            </section>
+            </div>
+            <div>    
+            <section id="Kerala">
+                <center>
+                    <h2><i>Kerala</i></h2>
+                    <p>Kerala (English: /'k?r?l?/; Malayalam: [ke:????m] (About this soundlisten)) is a state on the Malabar Coast of India.[13] It was formed on 1 November 1956, following the passage of the States Reorganisation Act, by combining Malayalam-speaking regions of the erstwhile regions of Cochin, Malabar, South Canara, and Travancore.[14][15] Spread over 38,863 km2 (15,005 sq mi), Kerala is the twenty-first largest Indian state by area. It is bordered by Karnataka to the north and northeast, Tamil Nadu to the east and south, and the Lakshadweep Sea[16] to the west. With 33,406,061 inhabitants as per the 2011 Census, and with an estimated 35,699,400 at mid 2020,[2] Kerala is the thirteenth-largest Indian state by population. It is divided into 14 districts with the capital being Thiruvananthapuram. Malayalam is the most widely spoken language and is also the official language of the state.[17]</p>
+                    <img src="kerala.jpg" alt="kerala" />
+                    <p>Kerala (English: /'k?r?l?/; Malayalam: [ke:????m] (About this soundlisten)) is a state on the Malabar Coast of India.[13] It was formed on 1 November 1956, following the passage of the States Reorganisation Act, by combining Malayalam-speaking regions of the erstwhile regions of Cochin, Malabar, South Canara, and Travancore.[14][15] Spread over 38,863 km2 (15,005 sq mi), Kerala is the twenty-first largest Indian state by area. It is bordered by Karnataka to the north and northeast, Tamil Nadu to the east and south, and the Lakshadweep Sea[16] to the west. With 33,406,061 inhabitants as per the 2011 Census, and with an estimated 35,699,400 at mid 2020,[2] Kerala is the thirteenth-largest Indian state by population. It is divided into 14 districts with the capital being Thiruvananthapuram. Malayalam is the most widely spoken language and is also the official language of the state.[17]</p>
+                    <img src="kerala.jpg" alt="kerala" />
+                    <p>Kerala (English: /'k?r?l?/; Malayalam: [ke:????m] (About this soundlisten)) is a state on the Malabar Coast of India.[13] It was formed on 1 November 1956, following the passage of the States Reorganisation Act, by combining Malayalam-speaking regions of the erstwhile regions of Cochin, Malabar, South Canara, and Travancore.[14][15] Spread over 38,863 km2 (15,005 sq mi), Kerala is the twenty-first largest Indian state by area. It is bordered by Karnataka to the north and northeast, Tamil Nadu to the east and south, and the Lakshadweep Sea[16] to the west. With 33,406,061 inhabitants as per the 2011 Census, and with an estimated 35,699,400 at mid 2020,[2] Kerala is the thirteenth-largest Indian state by population. It is divided into 14 districts with the capital being Thiruvananthapuram. Malayalam is the most widely spoken language and is also the official language of the state.[17]</p>
+                </center>
+            </section>
+            </div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3863.4167915520998!2d75.92214515034642!3d14.460740284316199!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s7%2F909%2C%20shree%20renuka%20krupa%20k%20b%20extension%20canara%20bank%20opp!5e0!3m2!1sen!2sin!4v1625738171189!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
+        <footer>
+            <hr/>
+            <center>
+                <h3>&copy; Deepikaaradhya &hearts;</h3>
+            </center> 
+        </footer>       
+    </boby>
+</html>
