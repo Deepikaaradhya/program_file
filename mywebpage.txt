@@ -1,0 +1,116 @@
+<html>
+    <head>
+        <title>My Profile</title>
+    </head>
+    <body>
+        <header>
+            <center> 
+                <h1><i>Deepika</i></h1>
+            </center>
+            <hr/>
+            <a href="#About">About</a>
+            <a href="#Education">,Education</a>
+            <a href="#Hobbies">,Hobbies</a>
+            <a href="#Dreams and Aspiration">,Dreams and Aspiration</a>
+            <a href="#Contact me">,Contact me</a>
+            <hr/>
+        </header>
+        <div>
+            <div>
+            <section id="About">
+                <center>
+                     <h2><b><u>About</u></b></h2>
+                     <p><b><i>Myself Deepika, I am 23 year old, i live in davangere with my parents and younger brother. I can speak 2 languages, kannada and English. And I did my graduation in Information Science and Engg from BIET College,DVG.</i></b></p>
+                     <p><b><span><i>My short term goal is to get a job in a good company. And long term goal is to get more knowledge and improve my skills to reach a good personality in the company</i></span></b></p>
+                     <p><b><span><i>My strength is I can do any work confidently without any pressure, My weakness is I am not comfortable until I finish my work in the given time period.</i></span></b></p>
+                     <img src="deepu.png.jpg" width="200" height="200" alt="deepu.png.jpg"/>
+                </center>
+            </section>    
+            </div>
+            <hr/>
+            <div>
+            <section id="Education">
+                <center>
+                    <style>
+                        table {
+                            font-family: 'Times New Roman', Times, serif;
+                            border-collapse: collapse;
+                            width: 100%;
+                        }
+                        td,th {
+                            border: 1px solid #dddddd;
+                            text-align: left;
+                            padding: 8px;
+                        }
+                        tr:nth-child(even) {
+                            background-color: #dddddd;
+                        }
+                    </style>
+                    <h2><b><u>Education</u></b></h2>
+                    <table>
+                        <tr>
+                            <th><u>COLLEGE/SCHOOL</u></th>
+                            <th><u>YEAR</u></th>
+                        </tr>
+                        <tr>
+                            <td><i>Bapuji Institute of Engineering & Technology,Dvg - 60%</i></td>
+                            <td>2020</td>
+                        </tr>
+                        <tr>
+                            <td><i>Smt. Pushpa Shamanur Mahalingappa PU College,Dvg - 65%</i></td>
+                            <td>2015</td>
+                        </tr>
+                        <tr>
+                            <td><i>St. John's convent,Dvg - 63.84%</i></td>
+                            <td>2013</td>
+                        </tr>
+                        </table>
+                </center'>
+            </section>    
+            </div>
+            <hr/>
+            <div>
+            <section id="Hobbies">
+                <center>
+                    <h2><b><u>Hobbies</u></b></h2>
+                    <p><b><i>My hobbies are listening to music,Singing,painting, watching web series and spending time with my friends. Singing and Drawing is something that gives me comfert and help me to relax. I started singing and painting when i was in school and i also won many prizes.  over the year the habbit is something that has helped me to change a lot and give me lots of joy and happiness.</i></b></p>
+                </center>
+            </section>        
+            </div>
+            <hr/>
+            <div>
+            <section id="Dreams and Aspiration">
+                <center> 
+                    <h2><b><u>Dreams and Aspiration</u></b></h2>
+                    <p><b><i>while many peoples have dream to become doctors and lawyers. i always wanted to be a software engineer.</i></b></p>
+                </center>
+            </section>    
+            </div>
+            <hr/>
+            <div>
+            <section id="Contact me">
+                <footer>
+                    <center>
+                        <h2><b><u>Contact me</u></b></h2>
+                        <h3>&phone; 7975150576</h3>
+                    </center>
+                    <div>
+                        <center>
+                            <a href="https://www.instagram.com/deepika4604/" target="_blank">Instagram</a>
+                        </center>
+                    </div>               
+                </footer>
+                <br/>
+                <center>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3863.4167915520998!2d75.92214515034642!3d14.460740284316199!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s7%2F909%2C%20shree%20renuka%20krupa%20k%20b%20extension%20canara%20bank%20opp!5e0!3m2!1sen!2sin!4v1625738171189!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                </center>       
+            </section>     
+            </div>    
+        <footer>
+            <hr/>
+            <center>
+                <h3><i>&copy; deepikaaradhya &hearts;</i></h3>
+            </center>
+        </footer>    
+    </body>
+</html>
