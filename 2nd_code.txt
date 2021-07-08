@@ -1,0 +1,22 @@
+<html>
+    <head></head>
+        <body>
+            <center>
+                <h1>Day 2</h1>
+            </center>  
+            <hr/>
+            <hr/>
+            <a href="first.html">First</a>
+            <br/>
+            <a href="https://www.instagram.com/deepika4604/" target="_blank">Instagram</a>
+            <p>Hi this is p1</p>
+            <p>Hi this is p2</p>
+            <img src="edureka.jpg" />
+            <span>Hi this is span1</span>
+            <span>Hi this is span2</span>
+            <br/>
+            <p>Hi this is p3</p>
+            <br/>
+            <span>Hi this is span3</span>
+        </body>
+</html>
